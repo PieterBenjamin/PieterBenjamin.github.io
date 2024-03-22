@@ -135,8 +135,9 @@
     height: 100%;
     background-image: url($logo);
     background-repeat: no-repeat;
-    background-position: left center;
+    background-position: center;
     background-size: contain;
+    border-radius: 50%;
   }
 }
 
