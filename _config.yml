@@ -16,7 +16,7 @@
 title: Pieter Benjamin
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/PieterBenjamin/pieterbenjamin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: PieterBenjamin/pieterbenjamin.github.io # for github-metadata
 
 permalink: pretty
