@@ -17,7 +17,7 @@ title: Pieter Benjamin
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: PieterBenjamin/pieterbenjamin.github.io # for github-metadata
 
 permalink: pretty
 
@@ -107,7 +107,7 @@ aux_links:
     - "https://github.com/PieterBenjamin/PieterBenjamin.github.io"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
@@ -126,7 +126,6 @@ liquid:
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer last edited timestamp

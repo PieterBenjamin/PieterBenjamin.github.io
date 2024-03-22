@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
-nav_order: 1
-description: "Stay tuned for more."
+title: Hello World!
+nav_order: 0
 permalink: /
 ---
 
 # Hello World!
+Welcome to my website! I'm currently redoing things. Check out some the content in the sidebar :\) 
